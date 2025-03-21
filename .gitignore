@@ -1,0 +1,8 @@
+.DS_Store
+
+classes/__pycache__
+
+runs/*
+models/*
+test.ipynb
+TODO.md
